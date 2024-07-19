@@ -40,6 +40,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** Projeto focado em estudos de testes de unidade.
 - **Tecnologias:** C#
 
+### 10. [FI.WebAtividadeEntrevista](https://github.com/Dr141/FI.WebAtividadeEntrevista)
+- **Descrição:** Projeto focado em desenvolvimento web, realizada manunteção evolutiva conforme solitado no processo seletivo.
+- **Tecnologias:** C#/JavaScript
+
 ## Contato
 
 Se tiver dúvidas ou quiser colaborar, entre em contato pelo e-mail [Rhemersondr14@gmail.com.com](mailto:rhemersondr14@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/rhemerson-monteiro-415844170/).
