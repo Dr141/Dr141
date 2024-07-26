@@ -44,7 +44,7 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** Projeto focado em desenvolvimento web, realizada manunteção evolutiva conforme solitado no processo seletivo.
 - **Tecnologias:** C#/JavaScript
 
-### 11. [FI.WebAtividadeEntrevista]([https://github.com/Dr141/FI.WebAtividadeEntrevista](https://github.com/Dr141/Pedidos))
+### 11. [Pedidos.WebAPI](https://github.com/Dr141/Pedidos)
 - **Descrição:** Projeto focado em desenvolvimento AspNet APIWeb.
 - **Tecnologias:** C#
 
