@@ -46,7 +46,7 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 
 ### 11. [Pedidos.WebAPI](https://github.com/Dr141/Pedidos)
 - **Descrição:** Projeto focado em desenvolvimento AspNet APIWeb.
-- **Tecnologias:** C#
+- **Tecnologias:** C# e SQL Serve
 
 ## Contato
 
