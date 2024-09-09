@@ -28,15 +28,11 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** Projeto de testes básicos com Cypress.
 - **Tecnologias:** JavaScript/TypeScript
 
-### 7. [MeuBackup (Em desenvolvimento)](https://github.com/Dr141/MeuBackup)
-- **Descrição:** Aplicação para gerenciamento de backups.
-- **Tecnologias:** C#
-
-### 8. [Scanner de Rede Local](https://github.com/Dr141/NetWorkingInfo)
+### 7. [Scanner de Rede Local](https://github.com/Dr141/NetWorkingInfo)
 - **Descrição:** Ferramenta para escaneamento de rede local.
 - **Tecnologias:** C#
 
-### 9. [Estudo de Testes de Unidade](https://github.com/Dr141/EstudoTesteUnidade)
+### 6. [Estudo de Testes de Unidade](https://github.com/Dr141/EstudoTesteUnidade)
 - **Descrição:** Projeto focado em estudos de testes de unidade.
 - **Tecnologias:** C#
 
