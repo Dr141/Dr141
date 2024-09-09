@@ -36,6 +36,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** Projeto focado em estudos de testes de unidade.
 - **Tecnologias:** C#
 
+### 7. [Biblioteca de autenticação](https://github.com/Dr141/Biblioteca.Autenticacao)
+- **Descrição:** Projeto focado na implementação de biblioteca de autenticação, para facilitar o desenvolvimento de outros projetos que necessite de autenticação.
+- **Tecnologias:** C# e PostgreSql
+
 ## Contato
 
 Se tiver dúvidas ou quiser colaborar, entre em contato pelo e-mail [Rhemersondr14@gmail.com.com](mailto:rhemersondr14@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/rhemerson-monteiro-415844170/).
