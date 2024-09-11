@@ -12,23 +12,15 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** API RESTful desenvolvida com Node.js.
 - **Tecnologias:** TypeScript
 
-### 3. [E-log](https://github.com/Dr141/E-log)
-- **Descrição:** Aplicação para gerenciamento de registros de eventos.
-- **Tecnologias:** C#
+### 3. [Biblioteca de autenticação](https://github.com/Dr141/Biblioteca.Autenticacao)
+- **Descrição:** Projeto focado na implementação de biblioteca de autenticação, para facilitar o desenvolvimento de outros projetos que necessite de autenticação.
+- **Tecnologias:** C# e PostgreSql
 
-### 4. [ConsultarSelos (TJ PA)](https://github.com/Dr141/ConsultarSelosPA)
-- **Descrição:** Aplicação para consulta de selos do Tribunal de Justiça do Pará.
-- **Tecnologias:** C#
-
-### 5. [Configuração de Sistema](https://github.com/Dr141/Configuracao-Sistema)
-- **Descrição:** Ferramenta para configuração de sistemas.
-- **Tecnologias:** C#
-
-### 6. [Cypress Básico v2](https://github.com/Dr141/cypress-basico-v2)
+### 4. [Cypress Básico v2](https://github.com/Dr141/cypress-basico-v2)
 - **Descrição:** Projeto de testes básicos com Cypress.
 - **Tecnologias:** JavaScript/TypeScript
 
-### 7. [Scanner de Rede Local](https://github.com/Dr141/NetWorkingInfo)
+### 5. [Scanner de Rede Local](https://github.com/Dr141/NetWorkingInfo)
 - **Descrição:** Ferramenta para escaneamento de rede local.
 - **Tecnologias:** C#
 
@@ -36,15 +28,11 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 - **Descrição:** Projeto focado em estudos de testes de unidade.
 - **Tecnologias:** C#
 
-### 7. [Biblioteca de autenticação](https://github.com/Dr141/Biblioteca.Autenticacao)
-- **Descrição:** Projeto focado na implementação de biblioteca de autenticação, para facilitar o desenvolvimento de outros projetos que necessite de autenticação.
+### 7. [API Rest de autenticação](https://github.com/Dr141/Web.Authetication)
+- **Descrição:** API RESTful de autenticação.
 - **Tecnologias:** C# e PostgreSql
-
-## Contato
-
-Se tiver dúvidas ou quiser colaborar, entre em contato pelo e-mail [Rhemersondr14@gmail.com.com](mailto:rhemersondr14@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/rhemerson-monteiro-415844170/).
-
 ---
+
 <!---
 Dr141/Dr141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
