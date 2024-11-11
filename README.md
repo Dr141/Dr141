@@ -27,6 +27,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 ### 6. [Estudo de Testes de Unidade](https://github.com/Dr141/EstudoTesteUnidade)
 - **Descrição:** Projeto focado em estudos de testes de unidade.
 - **Tecnologias:** C#
+
+### 7. [Meu endereço](https://github.com/Dr141/MeuEndereco)
+- **Descrição:** Biblioteca para consultar e formata CEP.
+- **Tecnologias:** C#
 <!---
 ### 7. [API Rest de autenticação](https://github.com/Dr141/Web.Authetication)
 - **Descrição:** API RESTful de autenticação.
