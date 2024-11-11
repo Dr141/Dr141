@@ -31,6 +31,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 ### 7. [Meu endereço](https://github.com/Dr141/MeuEndereco)
 - **Descrição:** Biblioteca para consultar e formata CEP.
 - **Tecnologias:** C#
+
+### 8. [Valida documento](https://github.com/Dr141/ValidaDocumento)
+- **Descrição:** Biblioteca para formata e validar CPF/CNPJ.
+- **Tecnologias:** C#
 <!---
 ### 7. [API Rest de autenticação](https://github.com/Dr141/Web.Authetication)
 - **Descrição:** API RESTful de autenticação.
