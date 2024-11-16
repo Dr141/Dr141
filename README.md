@@ -35,11 +35,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 ### 8. [Valida documento](https://github.com/Dr141/ValidaDocumento)
 - **Descrição:** Biblioteca para formata e validar CPF/CNPJ.
 - **Tecnologias:** C#
-<!---
-### 7. [API Rest de autenticação](https://github.com/Dr141/Web.Authetication)
-- **Descrição:** API RESTful de autenticação.
-- **Tecnologias:** C# e PostgreSql
---->
+
+### 7. [eShopping](https://github.com/Dr141/eShopping)
+- **Descrição:** API RESTful.
+- **Tecnologias:** C# e SQLServer
 ---
 
 <!---
