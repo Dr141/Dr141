@@ -35,6 +35,10 @@ Olá! Sou Rhemerson, um desenvolvedor apaixonado por criar soluções inovadoras
 ### 7. [eShopping](https://github.com/Dr141/eShopping)
 - **Descrição:** API RESTful.
 - **Tecnologias:** C# e SQLServer
+
+### 8. [Consultorio](https://github.com/Dr141/Consultorio)
+- **Descrição:** API RESTful e front-end.
+- **Tecnologias:** C# e Postgresql
 ---
 
 <!---
