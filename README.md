@@ -62,10 +62,10 @@ Sou **Engenheiro de Computação** com sólida base em desenvolvimento de softwa
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rhemerson-monteiro-415844170/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:rhemersondr14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
