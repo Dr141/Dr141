@@ -102,8 +102,8 @@ Sou **Engenheiro de Computação** com sólida base em desenvolvimento de softwa
 -->
 
 <div align="center">
-  <img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+  <img height="170" src="./profile/stats.svg?v=1" alt="Estatísticas do GitHub" />
+  <img height="170" src="./profile/top-langs.svg?v=1" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
@@ -114,9 +114,9 @@ Sou **Engenheiro de Computação** com sólida base em desenvolvimento de softwa
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-    <img alt="Gráfico de contribuições em formato de cobrinha" src="./profile/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg?v=1" />
+    <img alt="Gráfico de contribuições em formato de cobrinha" src="./profile/snake.svg?v=1" />
   </picture>
 </div>
 
