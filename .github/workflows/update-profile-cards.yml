@@ -70,4 +70,14 @@ jobs:
           git add profile/*.svg
           git diff --cached --quiet && { echo "Nenhuma alteração nos cards."; exit 0; }
           git commit -m "chore: atualiza cards do perfil"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Falha ao enviar commit após $attempt tentativas."
+              exit 1
+            fi
+            echo "Falha no push (tentativa $attempt). Tentando novamente em 10s..."
+            sleep 10
+          done
